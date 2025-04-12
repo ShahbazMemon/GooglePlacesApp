@@ -32,7 +32,7 @@ A React Native mobile application built with Expo that allows users to search fo
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repository-url>
+   git clone <https://github.com/ShahbazMemon/GooglePlacesApp.git>
    cd GooglePlacesApp
    ```
 
